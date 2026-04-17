@@ -30,5 +30,5 @@ Perintah yang sering di gunakan dalam penggunaan command line
 6. cs..
 7. perintah untuk menghapus apa? rm "nama file"
 8. perintah mengedit file
-9. Halo
+9. 
 10. 

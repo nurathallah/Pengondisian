@@ -22,13 +22,13 @@ Git Commit Penjelasan: Perintah ini digunakan untuk menyimpan perubahan yang tel
 Git Push origin main Penjelasan: Perintah ini mengirimkan semua commit yang ada di komputer lokal kamu ke repositori jarak jauh (remote), seperti GitHub, GitLab, atau Bitbucket. Fungsi:  Push: Mengunggah data.
 
 Perintah yang sering di gunakan dalam penggunaan command line:
-1. pwd
-2. ls
-3. cd
-4. touch
-5. chomd
-6. cs..
-7. perintah untuk menghapus apa? rm "nama file"
+1. pwd(Menampilkan lokasi folder (direktori) kamu saat ini.)
+2. ls(Menampilkan isi folder.)
+3. cd(Untuk berpindah folder.)
+4. touch(Membuat file baru kosong.)
+5. chomd(Mengubah izin akses file (read, write, execute).)
+6. cs..(Untuk menyalin file atau folder.)
+7. rm (perintah untuk menghapus apa?, contoh rm "nama file".)
 8. perintah mengedit file
 9. 
 10. 
